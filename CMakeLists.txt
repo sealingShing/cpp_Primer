@@ -7,6 +7,10 @@ set(BUILD1 main)
 set(SOURCEFILE_1 main.cpp)
 add_executable(${BUILD1} ${SOURCEFILE_1})
 
+set(CALLBACK callback)
+set(CALLBACKFILE CallBackDemo.cpp)
+add_executable(${CALLBACK} ${CALLBACKFILE})
+
 set(BUILD2 ex1_9)
 set(SOURCEFILE_2 ch01/ex1_9.cpp)
 add_executable(${BUILD2} ${SOURCEFILE_2})
