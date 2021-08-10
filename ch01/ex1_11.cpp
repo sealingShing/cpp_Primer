@@ -9,11 +9,17 @@ using namespace std;
 int main(){
     int a = 0, b = 0;
     cin >> a >> b;
-    int max = 0;
-    if (a > b)
+    int max = 0, min = 0;
+    if (a >= b){
         max = a;
-    else
+        min = b;
+    }else{
         max = b;
-
+        min = a;
+    }
+    while(min < max){
+        cout << min << endl;
+        ++ min;
+    }
     return 0;
 }
