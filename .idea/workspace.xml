@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="code" targetName="ex1_10" />
+      <config projectName="code" targetName="ex1_7" />
+      <config projectName="code" targetName="ex1_6" />
+      <config projectName="code" targetName="main" />
+      <config projectName="code" targetName="ex1_9" />
+      <config projectName="code" targetName="ex1_8" />
+      <config projectName="code" targetName="ex1_11" />
+      <config projectName="code" targetName="ex1_3" />
+      <config projectName="code" targetName="ex1_2" />
+      <config projectName="code" targetName="ex1_5" />
+      <config projectName="code" targetName="ex1_4" />
+      <config projectName="code" targetName="ex1_1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47129e52-f9c8-4c35-891a-6a0ad1ccaf5d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wIzuAm2b0FEOwa94Y6kO2Ij7xU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager" selected="CMake Application.ex1_10">
+    <configuration name="ex1_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="ex1_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="code" RUN_TARGET_NAME="ex1_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1_10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="ex1_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="code" RUN_TARGET_NAME="ex1_10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1_11" type="CMakeRunConfiguration" factoryName="Application" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="ex1_11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="code" RUN_TARGET_NAME="ex1_11">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="ex1_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="code" RUN_TARGET_NAME="ex1_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1_3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="ex1_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="code" RUN_TARGET_NAME="ex1_3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1_4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="ex1_4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="code" RUN_TARGET_NAME="ex1_4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1_5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="ex1_5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="code" RUN_TARGET_NAME="ex1_5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1_6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="ex1_6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="code" RUN_TARGET_NAME="ex1_6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1_7" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="ex1_7" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="code" RUN_TARGET_NAME="ex1_7">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1_8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="ex1_8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="code" RUN_TARGET_NAME="ex1_8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1_9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="ex1_9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="code" RUN_TARGET_NAME="ex1_9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="code" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="code" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch01/ex1_9.o" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/cmake-build-debug/Makefile" target="ch01/ex1_9.o" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="cmake_check_build_system" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/cmake-build-debug/Makefile" target="cmake_check_build_system" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.ex1_1" />
+      <item itemvalue="CMake Application.ex1_10" />
+      <item itemvalue="CMake Application.ex1_2" />
+      <item itemvalue="CMake Application.ex1_3" />
+      <item itemvalue="CMake Application.ex1_4" />
+      <item itemvalue="CMake Application.ex1_5" />
+      <item itemvalue="CMake Application.ex1_6" />
+      <item itemvalue="CMake Application.ex1_7" />
+      <item itemvalue="CMake Application.ex1_8" />
+      <item itemvalue="CMake Application.ex1_9" />
+      <item itemvalue="CMake Application.main" />
+      <item itemvalue="CMake Application.ex1_11" />
+      <item itemvalue="Makefile Target.ch01/ex1_9.o" />
+      <item itemvalue="Makefile Target.cmake_check_build_system" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="CMake Application.ex1_11" />
+        <item itemvalue="Makefile Target.cmake_check_build_system" />
+        <item itemvalue="Makefile Target.ch01/ex1_9.o" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47129e52-f9c8-4c35-891a-6a0ad1ccaf5d" name="Changes" comment="" />
+      <created>1628161110791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628161110791</updated>
+      <workItem from="1628161113119" duration="6426000" />
+      <workItem from="1628212255564" duration="546000" />
+      <workItem from="1628507754427" duration="4600000" />
+      <workItem from="1628512411959" duration="10000" />
+      <workItem from="1628513130026" duration="938000" />
+      <workItem from="1628557209929" duration="424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

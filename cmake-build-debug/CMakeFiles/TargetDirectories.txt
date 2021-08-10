@@ -1,0 +1,14 @@
+/mnt/d/code/code/cmake-build-debug/CMakeFiles/main.dir
+/mnt/d/code/code/cmake-build-debug/CMakeFiles/ex1_4.dir
+/mnt/d/code/code/cmake-build-debug/CMakeFiles/ex1_9.dir
+/mnt/d/code/code/cmake-build-debug/CMakeFiles/ex1_6.dir
+/mnt/d/code/code/cmake-build-debug/CMakeFiles/ex1_10.dir
+/mnt/d/code/code/cmake-build-debug/CMakeFiles/ex1_1.dir
+/mnt/d/code/code/cmake-build-debug/CMakeFiles/ex1_2.dir
+/mnt/d/code/code/cmake-build-debug/CMakeFiles/ex1_3.dir
+/mnt/d/code/code/cmake-build-debug/CMakeFiles/ex1_5.dir
+/mnt/d/code/code/cmake-build-debug/CMakeFiles/ex1_7.dir
+/mnt/d/code/code/cmake-build-debug/CMakeFiles/ex1_8.dir
+/mnt/d/code/code/cmake-build-debug/CMakeFiles/ex1_11.dir
+/mnt/d/code/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/code/code/cmake-build-debug/CMakeFiles/edit_cache.dir
