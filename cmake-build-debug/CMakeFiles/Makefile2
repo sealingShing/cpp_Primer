@@ -53,6 +53,13 @@ CMAKE_BINARY_DIR = /mnt/d/code/code/cmake-build-debug
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
+all: CMakeFiles/ex2_20.dir/all
+all: CMakeFiles/ex2_18.dir/all
+all: CMakeFiles/ex2_13.dir/all
+all: CMakeFiles/ex1_25.dir/all
+all: CMakeFiles/ex2_14.dir/all
+all: CMakeFiles/ex2_3.dir/all
+all: CMakeFiles/ex1_20.dir/all
 all: CMakeFiles/1_5.dir/all
 all: CMakeFiles/main.dir/all
 all: CMakeFiles/ex1_4.dir/all
@@ -63,6 +70,7 @@ all: CMakeFiles/ex1_9.dir/all
 all: CMakeFiles/ex1_15.dir/all
 all: CMakeFiles/ex1_6.dir/all
 all: CMakeFiles/ex1_10.dir/all
+all: CMakeFiles/ex2_17.dir/all
 all: CMakeFiles/ex1_1.dir/all
 all: CMakeFiles/ex1_2.dir/all
 all: CMakeFiles/ex1_3.dir/all
@@ -81,6 +89,13 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
+clean: CMakeFiles/ex2_20.dir/clean
+clean: CMakeFiles/ex2_18.dir/clean
+clean: CMakeFiles/ex2_13.dir/clean
+clean: CMakeFiles/ex1_25.dir/clean
+clean: CMakeFiles/ex2_14.dir/clean
+clean: CMakeFiles/ex2_3.dir/clean
+clean: CMakeFiles/ex1_20.dir/clean
 clean: CMakeFiles/1_5.dir/clean
 clean: CMakeFiles/main.dir/clean
 clean: CMakeFiles/ex1_4.dir/clean
@@ -91,6 +106,7 @@ clean: CMakeFiles/ex1_9.dir/clean
 clean: CMakeFiles/ex1_15.dir/clean
 clean: CMakeFiles/ex1_6.dir/clean
 clean: CMakeFiles/ex1_10.dir/clean
+clean: CMakeFiles/ex2_17.dir/clean
 clean: CMakeFiles/ex1_1.dir/clean
 clean: CMakeFiles/ex1_2.dir/clean
 clean: CMakeFiles/ex1_3.dir/clean
@@ -102,6 +118,195 @@ clean: CMakeFiles/ex1_8.dir/clean
 clean: CMakeFiles/ex1_11.dir/clean
 
 .PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ex2_20.dir
+
+# All Build rule for target.
+CMakeFiles/ex2_20.dir/all:
+	$(MAKE) -f CMakeFiles/ex2_20.dir/build.make CMakeFiles/ex2_20.dir/depend
+	$(MAKE) -f CMakeFiles/ex2_20.dir/build.make CMakeFiles/ex2_20.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=49,50 "Built target ex2_20"
+.PHONY : CMakeFiles/ex2_20.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ex2_20.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ex2_20.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/ex2_20.dir/rule
+
+# Convenience name for target.
+ex2_20: CMakeFiles/ex2_20.dir/rule
+
+.PHONY : ex2_20
+
+# clean rule for target.
+CMakeFiles/ex2_20.dir/clean:
+	$(MAKE) -f CMakeFiles/ex2_20.dir/build.make CMakeFiles/ex2_20.dir/clean
+.PHONY : CMakeFiles/ex2_20.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ex2_18.dir
+
+# All Build rule for target.
+CMakeFiles/ex2_18.dir/all:
+	$(MAKE) -f CMakeFiles/ex2_18.dir/build.make CMakeFiles/ex2_18.dir/depend
+	$(MAKE) -f CMakeFiles/ex2_18.dir/build.make CMakeFiles/ex2_18.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=47,48 "Built target ex2_18"
+.PHONY : CMakeFiles/ex2_18.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ex2_18.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ex2_18.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/ex2_18.dir/rule
+
+# Convenience name for target.
+ex2_18: CMakeFiles/ex2_18.dir/rule
+
+.PHONY : ex2_18
+
+# clean rule for target.
+CMakeFiles/ex2_18.dir/clean:
+	$(MAKE) -f CMakeFiles/ex2_18.dir/build.make CMakeFiles/ex2_18.dir/clean
+.PHONY : CMakeFiles/ex2_18.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ex2_13.dir
+
+# All Build rule for target.
+CMakeFiles/ex2_13.dir/all:
+	$(MAKE) -f CMakeFiles/ex2_13.dir/build.make CMakeFiles/ex2_13.dir/depend
+	$(MAKE) -f CMakeFiles/ex2_13.dir/build.make CMakeFiles/ex2_13.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=41,42 "Built target ex2_13"
+.PHONY : CMakeFiles/ex2_13.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ex2_13.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ex2_13.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/ex2_13.dir/rule
+
+# Convenience name for target.
+ex2_13: CMakeFiles/ex2_13.dir/rule
+
+.PHONY : ex2_13
+
+# clean rule for target.
+CMakeFiles/ex2_13.dir/clean:
+	$(MAKE) -f CMakeFiles/ex2_13.dir/build.make CMakeFiles/ex2_13.dir/clean
+.PHONY : CMakeFiles/ex2_13.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ex1_25.dir
+
+# All Build rule for target.
+CMakeFiles/ex1_25.dir/all:
+	$(MAKE) -f CMakeFiles/ex1_25.dir/build.make CMakeFiles/ex1_25.dir/depend
+	$(MAKE) -f CMakeFiles/ex1_25.dir/build.make CMakeFiles/ex1_25.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target ex1_25"
+.PHONY : CMakeFiles/ex1_25.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ex1_25.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ex1_25.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/ex1_25.dir/rule
+
+# Convenience name for target.
+ex1_25: CMakeFiles/ex1_25.dir/rule
+
+.PHONY : ex1_25
+
+# clean rule for target.
+CMakeFiles/ex1_25.dir/clean:
+	$(MAKE) -f CMakeFiles/ex1_25.dir/build.make CMakeFiles/ex1_25.dir/clean
+.PHONY : CMakeFiles/ex1_25.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ex2_14.dir
+
+# All Build rule for target.
+CMakeFiles/ex2_14.dir/all:
+	$(MAKE) -f CMakeFiles/ex2_14.dir/build.make CMakeFiles/ex2_14.dir/depend
+	$(MAKE) -f CMakeFiles/ex2_14.dir/build.make CMakeFiles/ex2_14.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=43,44 "Built target ex2_14"
+.PHONY : CMakeFiles/ex2_14.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ex2_14.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ex2_14.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/ex2_14.dir/rule
+
+# Convenience name for target.
+ex2_14: CMakeFiles/ex2_14.dir/rule
+
+.PHONY : ex2_14
+
+# clean rule for target.
+CMakeFiles/ex2_14.dir/clean:
+	$(MAKE) -f CMakeFiles/ex2_14.dir/build.make CMakeFiles/ex2_14.dir/clean
+.PHONY : CMakeFiles/ex2_14.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ex2_3.dir
+
+# All Build rule for target.
+CMakeFiles/ex2_3.dir/all:
+	$(MAKE) -f CMakeFiles/ex2_3.dir/build.make CMakeFiles/ex2_3.dir/depend
+	$(MAKE) -f CMakeFiles/ex2_3.dir/build.make CMakeFiles/ex2_3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=51,52 "Built target ex2_3"
+.PHONY : CMakeFiles/ex2_3.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ex2_3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ex2_3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/ex2_3.dir/rule
+
+# Convenience name for target.
+ex2_3: CMakeFiles/ex2_3.dir/rule
+
+.PHONY : ex2_3
+
+# clean rule for target.
+CMakeFiles/ex2_3.dir/clean:
+	$(MAKE) -f CMakeFiles/ex2_3.dir/build.make CMakeFiles/ex2_3.dir/clean
+.PHONY : CMakeFiles/ex2_3.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ex1_20.dir
+
+# All Build rule for target.
+CMakeFiles/ex1_20.dir/all:
+	$(MAKE) -f CMakeFiles/ex1_20.dir/build.make CMakeFiles/ex1_20.dir/depend
+	$(MAKE) -f CMakeFiles/ex1_20.dir/build.make CMakeFiles/ex1_20.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target ex1_20"
+.PHONY : CMakeFiles/ex1_20.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ex1_20.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ex1_20.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/ex1_20.dir/rule
+
+# Convenience name for target.
+ex1_20: CMakeFiles/ex1_20.dir/rule
+
+.PHONY : ex1_20
+
+# clean rule for target.
+CMakeFiles/ex1_20.dir/clean:
+	$(MAKE) -f CMakeFiles/ex1_20.dir/build.make CMakeFiles/ex1_20.dir/clean
+.PHONY : CMakeFiles/ex1_20.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/1_5.dir
@@ -137,7 +342,7 @@ CMakeFiles/1_5.dir/clean:
 CMakeFiles/main.dir/all:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/depend
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=37,38 "Built target main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=53,54 "Built target main"
 .PHONY : CMakeFiles/main.dir/all
 
 # Build rule for subdir invocation for target.
@@ -164,7 +369,7 @@ CMakeFiles/main.dir/clean:
 CMakeFiles/ex1_4.dir/all:
 	$(MAKE) -f CMakeFiles/ex1_4.dir/build.make CMakeFiles/ex1_4.dir/depend
 	$(MAKE) -f CMakeFiles/ex1_4.dir/build.make CMakeFiles/ex1_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target ex1_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target ex1_4"
 .PHONY : CMakeFiles/ex1_4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -272,7 +477,7 @@ CMakeFiles/ex1_16.dir/clean:
 CMakeFiles/ex1_9.dir/all:
 	$(MAKE) -f CMakeFiles/ex1_9.dir/build.make CMakeFiles/ex1_9.dir/depend
 	$(MAKE) -f CMakeFiles/ex1_9.dir/build.make CMakeFiles/ex1_9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=35,36 "Built target ex1_9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=39,40 "Built target ex1_9"
 .PHONY : CMakeFiles/ex1_9.dir/all
 
 # Build rule for subdir invocation for target.
@@ -326,7 +531,7 @@ CMakeFiles/ex1_15.dir/clean:
 CMakeFiles/ex1_6.dir/all:
 	$(MAKE) -f CMakeFiles/ex1_6.dir/build.make CMakeFiles/ex1_6.dir/depend
 	$(MAKE) -f CMakeFiles/ex1_6.dir/build.make CMakeFiles/ex1_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target ex1_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=33,34 "Built target ex1_6"
 .PHONY : CMakeFiles/ex1_6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -372,6 +577,33 @@ ex1_10: CMakeFiles/ex1_10.dir/rule
 CMakeFiles/ex1_10.dir/clean:
 	$(MAKE) -f CMakeFiles/ex1_10.dir/build.make CMakeFiles/ex1_10.dir/clean
 .PHONY : CMakeFiles/ex1_10.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ex2_17.dir
+
+# All Build rule for target.
+CMakeFiles/ex2_17.dir/all:
+	$(MAKE) -f CMakeFiles/ex2_17.dir/build.make CMakeFiles/ex2_17.dir/depend
+	$(MAKE) -f CMakeFiles/ex2_17.dir/build.make CMakeFiles/ex2_17.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=45,46 "Built target ex2_17"
+.PHONY : CMakeFiles/ex2_17.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ex2_17.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ex2_17.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/code/code/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/ex2_17.dir/rule
+
+# Convenience name for target.
+ex2_17: CMakeFiles/ex2_17.dir/rule
+
+.PHONY : ex2_17
+
+# clean rule for target.
+CMakeFiles/ex2_17.dir/clean:
+	$(MAKE) -f CMakeFiles/ex2_17.dir/build.make CMakeFiles/ex2_17.dir/clean
+.PHONY : CMakeFiles/ex2_17.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/ex1_1.dir
@@ -434,7 +666,7 @@ CMakeFiles/ex1_2.dir/clean:
 CMakeFiles/ex1_3.dir/all:
 	$(MAKE) -f CMakeFiles/ex1_3.dir/build.make CMakeFiles/ex1_3.dir/depend
 	$(MAKE) -f CMakeFiles/ex1_3.dir/build.make CMakeFiles/ex1_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target ex1_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target ex1_3"
 .PHONY : CMakeFiles/ex1_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -461,7 +693,7 @@ CMakeFiles/ex1_3.dir/clean:
 CMakeFiles/ex1_5.dir/all:
 	$(MAKE) -f CMakeFiles/ex1_5.dir/build.make CMakeFiles/ex1_5.dir/depend
 	$(MAKE) -f CMakeFiles/ex1_5.dir/build.make CMakeFiles/ex1_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target ex1_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=31,32 "Built target ex1_5"
 .PHONY : CMakeFiles/ex1_5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -542,7 +774,7 @@ CMakeFiles/ex1_12.dir/clean:
 CMakeFiles/ex1_7.dir/all:
 	$(MAKE) -f CMakeFiles/ex1_7.dir/build.make CMakeFiles/ex1_7.dir/depend
 	$(MAKE) -f CMakeFiles/ex1_7.dir/build.make CMakeFiles/ex1_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=31,32 "Built target ex1_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=35,36 "Built target ex1_7"
 .PHONY : CMakeFiles/ex1_7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -569,7 +801,7 @@ CMakeFiles/ex1_7.dir/clean:
 CMakeFiles/ex1_8.dir/all:
 	$(MAKE) -f CMakeFiles/ex1_8.dir/build.make CMakeFiles/ex1_8.dir/depend
 	$(MAKE) -f CMakeFiles/ex1_8.dir/build.make CMakeFiles/ex1_8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=33,34 "Built target ex1_8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/code/code/cmake-build-debug/CMakeFiles --progress-num=37,38 "Built target ex1_8"
 .PHONY : CMakeFiles/ex1_8.dir/all
 
 # Build rule for subdir invocation for target.

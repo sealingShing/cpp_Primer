@@ -111,6 +111,97 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named ex2_20
+
+# Build rule for target.
+ex2_20: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ex2_20
+.PHONY : ex2_20
+
+# fast build rule for target.
+ex2_20/fast:
+	$(MAKE) -f CMakeFiles/ex2_20.dir/build.make CMakeFiles/ex2_20.dir/build
+.PHONY : ex2_20/fast
+
+#=============================================================================
+# Target rules for targets named ex2_18
+
+# Build rule for target.
+ex2_18: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ex2_18
+.PHONY : ex2_18
+
+# fast build rule for target.
+ex2_18/fast:
+	$(MAKE) -f CMakeFiles/ex2_18.dir/build.make CMakeFiles/ex2_18.dir/build
+.PHONY : ex2_18/fast
+
+#=============================================================================
+# Target rules for targets named ex2_13
+
+# Build rule for target.
+ex2_13: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ex2_13
+.PHONY : ex2_13
+
+# fast build rule for target.
+ex2_13/fast:
+	$(MAKE) -f CMakeFiles/ex2_13.dir/build.make CMakeFiles/ex2_13.dir/build
+.PHONY : ex2_13/fast
+
+#=============================================================================
+# Target rules for targets named ex1_25
+
+# Build rule for target.
+ex1_25: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ex1_25
+.PHONY : ex1_25
+
+# fast build rule for target.
+ex1_25/fast:
+	$(MAKE) -f CMakeFiles/ex1_25.dir/build.make CMakeFiles/ex1_25.dir/build
+.PHONY : ex1_25/fast
+
+#=============================================================================
+# Target rules for targets named ex2_14
+
+# Build rule for target.
+ex2_14: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ex2_14
+.PHONY : ex2_14
+
+# fast build rule for target.
+ex2_14/fast:
+	$(MAKE) -f CMakeFiles/ex2_14.dir/build.make CMakeFiles/ex2_14.dir/build
+.PHONY : ex2_14/fast
+
+#=============================================================================
+# Target rules for targets named ex2_3
+
+# Build rule for target.
+ex2_3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ex2_3
+.PHONY : ex2_3
+
+# fast build rule for target.
+ex2_3/fast:
+	$(MAKE) -f CMakeFiles/ex2_3.dir/build.make CMakeFiles/ex2_3.dir/build
+.PHONY : ex2_3/fast
+
+#=============================================================================
+# Target rules for targets named ex1_20
+
+# Build rule for target.
+ex1_20: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ex1_20
+.PHONY : ex1_20
+
+# fast build rule for target.
+ex1_20/fast:
+	$(MAKE) -f CMakeFiles/ex1_20.dir/build.make CMakeFiles/ex1_20.dir/build
+.PHONY : ex1_20/fast
+
+#=============================================================================
 # Target rules for targets named 1_5
 
 # Build rule for target.
@@ -239,6 +330,19 @@ ex1_10: cmake_check_build_system
 ex1_10/fast:
 	$(MAKE) -f CMakeFiles/ex1_10.dir/build.make CMakeFiles/ex1_10.dir/build
 .PHONY : ex1_10/fast
+
+#=============================================================================
+# Target rules for targets named ex2_17
+
+# Build rule for target.
+ex2_17: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ex2_17
+.PHONY : ex2_17
+
+# fast build rule for target.
+ex2_17/fast:
+	$(MAKE) -f CMakeFiles/ex2_17.dir/build.make CMakeFiles/ex2_17.dir/build
+.PHONY : ex2_17/fast
 
 #=============================================================================
 # Target rules for targets named ex1_1
@@ -654,6 +758,60 @@ ch01/ex1_2.cpp.s:
 	$(MAKE) -f CMakeFiles/ex1_2.dir/build.make CMakeFiles/ex1_2.dir/ch01/ex1_2.cpp.s
 .PHONY : ch01/ex1_2.cpp.s
 
+ch01/ex1_20.o: ch01/ex1_20.cpp.o
+
+.PHONY : ch01/ex1_20.o
+
+# target to build an object file
+ch01/ex1_20.cpp.o:
+	$(MAKE) -f CMakeFiles/ex1_20.dir/build.make CMakeFiles/ex1_20.dir/ch01/ex1_20.cpp.o
+.PHONY : ch01/ex1_20.cpp.o
+
+ch01/ex1_20.i: ch01/ex1_20.cpp.i
+
+.PHONY : ch01/ex1_20.i
+
+# target to preprocess a source file
+ch01/ex1_20.cpp.i:
+	$(MAKE) -f CMakeFiles/ex1_20.dir/build.make CMakeFiles/ex1_20.dir/ch01/ex1_20.cpp.i
+.PHONY : ch01/ex1_20.cpp.i
+
+ch01/ex1_20.s: ch01/ex1_20.cpp.s
+
+.PHONY : ch01/ex1_20.s
+
+# target to generate assembly for a file
+ch01/ex1_20.cpp.s:
+	$(MAKE) -f CMakeFiles/ex1_20.dir/build.make CMakeFiles/ex1_20.dir/ch01/ex1_20.cpp.s
+.PHONY : ch01/ex1_20.cpp.s
+
+ch01/ex1_25.o: ch01/ex1_25.cpp.o
+
+.PHONY : ch01/ex1_25.o
+
+# target to build an object file
+ch01/ex1_25.cpp.o:
+	$(MAKE) -f CMakeFiles/ex1_25.dir/build.make CMakeFiles/ex1_25.dir/ch01/ex1_25.cpp.o
+.PHONY : ch01/ex1_25.cpp.o
+
+ch01/ex1_25.i: ch01/ex1_25.cpp.i
+
+.PHONY : ch01/ex1_25.i
+
+# target to preprocess a source file
+ch01/ex1_25.cpp.i:
+	$(MAKE) -f CMakeFiles/ex1_25.dir/build.make CMakeFiles/ex1_25.dir/ch01/ex1_25.cpp.i
+.PHONY : ch01/ex1_25.cpp.i
+
+ch01/ex1_25.s: ch01/ex1_25.cpp.s
+
+.PHONY : ch01/ex1_25.s
+
+# target to generate assembly for a file
+ch01/ex1_25.cpp.s:
+	$(MAKE) -f CMakeFiles/ex1_25.dir/build.make CMakeFiles/ex1_25.dir/ch01/ex1_25.cpp.s
+.PHONY : ch01/ex1_25.cpp.s
+
 ch01/ex1_3.o: ch01/ex1_3.cpp.o
 
 .PHONY : ch01/ex1_3.o
@@ -843,6 +1001,168 @@ ch01/ex1_9.cpp.s:
 	$(MAKE) -f CMakeFiles/ex1_9.dir/build.make CMakeFiles/ex1_9.dir/ch01/ex1_9.cpp.s
 .PHONY : ch01/ex1_9.cpp.s
 
+ch02/ex2_13.o: ch02/ex2_13.cpp.o
+
+.PHONY : ch02/ex2_13.o
+
+# target to build an object file
+ch02/ex2_13.cpp.o:
+	$(MAKE) -f CMakeFiles/ex2_13.dir/build.make CMakeFiles/ex2_13.dir/ch02/ex2_13.cpp.o
+.PHONY : ch02/ex2_13.cpp.o
+
+ch02/ex2_13.i: ch02/ex2_13.cpp.i
+
+.PHONY : ch02/ex2_13.i
+
+# target to preprocess a source file
+ch02/ex2_13.cpp.i:
+	$(MAKE) -f CMakeFiles/ex2_13.dir/build.make CMakeFiles/ex2_13.dir/ch02/ex2_13.cpp.i
+.PHONY : ch02/ex2_13.cpp.i
+
+ch02/ex2_13.s: ch02/ex2_13.cpp.s
+
+.PHONY : ch02/ex2_13.s
+
+# target to generate assembly for a file
+ch02/ex2_13.cpp.s:
+	$(MAKE) -f CMakeFiles/ex2_13.dir/build.make CMakeFiles/ex2_13.dir/ch02/ex2_13.cpp.s
+.PHONY : ch02/ex2_13.cpp.s
+
+ch02/ex2_14.o: ch02/ex2_14.cpp.o
+
+.PHONY : ch02/ex2_14.o
+
+# target to build an object file
+ch02/ex2_14.cpp.o:
+	$(MAKE) -f CMakeFiles/ex2_14.dir/build.make CMakeFiles/ex2_14.dir/ch02/ex2_14.cpp.o
+.PHONY : ch02/ex2_14.cpp.o
+
+ch02/ex2_14.i: ch02/ex2_14.cpp.i
+
+.PHONY : ch02/ex2_14.i
+
+# target to preprocess a source file
+ch02/ex2_14.cpp.i:
+	$(MAKE) -f CMakeFiles/ex2_14.dir/build.make CMakeFiles/ex2_14.dir/ch02/ex2_14.cpp.i
+.PHONY : ch02/ex2_14.cpp.i
+
+ch02/ex2_14.s: ch02/ex2_14.cpp.s
+
+.PHONY : ch02/ex2_14.s
+
+# target to generate assembly for a file
+ch02/ex2_14.cpp.s:
+	$(MAKE) -f CMakeFiles/ex2_14.dir/build.make CMakeFiles/ex2_14.dir/ch02/ex2_14.cpp.s
+.PHONY : ch02/ex2_14.cpp.s
+
+ch02/ex2_17.o: ch02/ex2_17.cpp.o
+
+.PHONY : ch02/ex2_17.o
+
+# target to build an object file
+ch02/ex2_17.cpp.o:
+	$(MAKE) -f CMakeFiles/ex2_17.dir/build.make CMakeFiles/ex2_17.dir/ch02/ex2_17.cpp.o
+.PHONY : ch02/ex2_17.cpp.o
+
+ch02/ex2_17.i: ch02/ex2_17.cpp.i
+
+.PHONY : ch02/ex2_17.i
+
+# target to preprocess a source file
+ch02/ex2_17.cpp.i:
+	$(MAKE) -f CMakeFiles/ex2_17.dir/build.make CMakeFiles/ex2_17.dir/ch02/ex2_17.cpp.i
+.PHONY : ch02/ex2_17.cpp.i
+
+ch02/ex2_17.s: ch02/ex2_17.cpp.s
+
+.PHONY : ch02/ex2_17.s
+
+# target to generate assembly for a file
+ch02/ex2_17.cpp.s:
+	$(MAKE) -f CMakeFiles/ex2_17.dir/build.make CMakeFiles/ex2_17.dir/ch02/ex2_17.cpp.s
+.PHONY : ch02/ex2_17.cpp.s
+
+ch02/ex2_18.o: ch02/ex2_18.cpp.o
+
+.PHONY : ch02/ex2_18.o
+
+# target to build an object file
+ch02/ex2_18.cpp.o:
+	$(MAKE) -f CMakeFiles/ex2_18.dir/build.make CMakeFiles/ex2_18.dir/ch02/ex2_18.cpp.o
+.PHONY : ch02/ex2_18.cpp.o
+
+ch02/ex2_18.i: ch02/ex2_18.cpp.i
+
+.PHONY : ch02/ex2_18.i
+
+# target to preprocess a source file
+ch02/ex2_18.cpp.i:
+	$(MAKE) -f CMakeFiles/ex2_18.dir/build.make CMakeFiles/ex2_18.dir/ch02/ex2_18.cpp.i
+.PHONY : ch02/ex2_18.cpp.i
+
+ch02/ex2_18.s: ch02/ex2_18.cpp.s
+
+.PHONY : ch02/ex2_18.s
+
+# target to generate assembly for a file
+ch02/ex2_18.cpp.s:
+	$(MAKE) -f CMakeFiles/ex2_18.dir/build.make CMakeFiles/ex2_18.dir/ch02/ex2_18.cpp.s
+.PHONY : ch02/ex2_18.cpp.s
+
+ch02/ex2_20.o: ch02/ex2_20.cpp.o
+
+.PHONY : ch02/ex2_20.o
+
+# target to build an object file
+ch02/ex2_20.cpp.o:
+	$(MAKE) -f CMakeFiles/ex2_20.dir/build.make CMakeFiles/ex2_20.dir/ch02/ex2_20.cpp.o
+.PHONY : ch02/ex2_20.cpp.o
+
+ch02/ex2_20.i: ch02/ex2_20.cpp.i
+
+.PHONY : ch02/ex2_20.i
+
+# target to preprocess a source file
+ch02/ex2_20.cpp.i:
+	$(MAKE) -f CMakeFiles/ex2_20.dir/build.make CMakeFiles/ex2_20.dir/ch02/ex2_20.cpp.i
+.PHONY : ch02/ex2_20.cpp.i
+
+ch02/ex2_20.s: ch02/ex2_20.cpp.s
+
+.PHONY : ch02/ex2_20.s
+
+# target to generate assembly for a file
+ch02/ex2_20.cpp.s:
+	$(MAKE) -f CMakeFiles/ex2_20.dir/build.make CMakeFiles/ex2_20.dir/ch02/ex2_20.cpp.s
+.PHONY : ch02/ex2_20.cpp.s
+
+ch02/ex2_3.o: ch02/ex2_3.cpp.o
+
+.PHONY : ch02/ex2_3.o
+
+# target to build an object file
+ch02/ex2_3.cpp.o:
+	$(MAKE) -f CMakeFiles/ex2_3.dir/build.make CMakeFiles/ex2_3.dir/ch02/ex2_3.cpp.o
+.PHONY : ch02/ex2_3.cpp.o
+
+ch02/ex2_3.i: ch02/ex2_3.cpp.i
+
+.PHONY : ch02/ex2_3.i
+
+# target to preprocess a source file
+ch02/ex2_3.cpp.i:
+	$(MAKE) -f CMakeFiles/ex2_3.dir/build.make CMakeFiles/ex2_3.dir/ch02/ex2_3.cpp.i
+.PHONY : ch02/ex2_3.cpp.i
+
+ch02/ex2_3.s: ch02/ex2_3.cpp.s
+
+.PHONY : ch02/ex2_3.s
+
+# target to generate assembly for a file
+ch02/ex2_3.cpp.s:
+	$(MAKE) -f CMakeFiles/ex2_3.dir/build.make CMakeFiles/ex2_3.dir/ch02/ex2_3.cpp.s
+.PHONY : ch02/ex2_3.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -878,6 +1198,13 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... ex2_20"
+	@echo "... ex2_18"
+	@echo "... ex2_13"
+	@echo "... ex1_25"
+	@echo "... ex2_14"
+	@echo "... ex2_3"
+	@echo "... ex1_20"
 	@echo "... 1_5"
 	@echo "... main"
 	@echo "... ex1_4"
@@ -888,6 +1215,7 @@ help:
 	@echo "... ex1_15"
 	@echo "... ex1_6"
 	@echo "... ex1_10"
+	@echo "... ex2_17"
 	@echo "... ex1_1"
 	@echo "... ex1_2"
 	@echo "... ex1_3"
@@ -930,6 +1258,12 @@ help:
 	@echo "... ch01/ex1_2.o"
 	@echo "... ch01/ex1_2.i"
 	@echo "... ch01/ex1_2.s"
+	@echo "... ch01/ex1_20.o"
+	@echo "... ch01/ex1_20.i"
+	@echo "... ch01/ex1_20.s"
+	@echo "... ch01/ex1_25.o"
+	@echo "... ch01/ex1_25.i"
+	@echo "... ch01/ex1_25.s"
 	@echo "... ch01/ex1_3.o"
 	@echo "... ch01/ex1_3.i"
 	@echo "... ch01/ex1_3.s"
@@ -951,6 +1285,24 @@ help:
 	@echo "... ch01/ex1_9.o"
 	@echo "... ch01/ex1_9.i"
 	@echo "... ch01/ex1_9.s"
+	@echo "... ch02/ex2_13.o"
+	@echo "... ch02/ex2_13.i"
+	@echo "... ch02/ex2_13.s"
+	@echo "... ch02/ex2_14.o"
+	@echo "... ch02/ex2_14.i"
+	@echo "... ch02/ex2_14.s"
+	@echo "... ch02/ex2_17.o"
+	@echo "... ch02/ex2_17.i"
+	@echo "... ch02/ex2_17.s"
+	@echo "... ch02/ex2_18.o"
+	@echo "... ch02/ex2_18.i"
+	@echo "... ch02/ex2_18.s"
+	@echo "... ch02/ex2_20.o"
+	@echo "... ch02/ex2_20.i"
+	@echo "... ch02/ex2_20.s"
+	@echo "... ch02/ex2_3.o"
+	@echo "... ch02/ex2_3.i"
+	@echo "... ch02/ex2_3.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

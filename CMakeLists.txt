@@ -78,3 +78,39 @@ add_executable(${BUILD17} ${SOURCEFILE_17})
 set(BUILD1_5 1_5)
 set(SOURCEFILE_1_5 ch01/1_5.cpp)
 add_executable(${BUILD1_5} ${SOURCEFILE_1_5})
+
+set(BUILD18 ex1_20)
+set(SOURCEFILE_18 ch01/ex1_20.cpp)
+add_executable(${BUILD18} ${SOURCEFILE_18})
+
+set(BUILD19 ex1_25)
+set(SOURCEFILE_19 ch01/ex1_25.cpp)
+add_executable(${BUILD19} ${SOURCEFILE_19})
+
+set(BUILD2_3 ex2_3)
+set(SOURCEFILE_2_3 ch02/ex2_3.cpp)
+add_executable(${BUILD2_3} ${SOURCEFILE_2_3})
+
+set(BUILD2_13 ex2_13)
+set(SOURCEFILE_2_13 ch02/ex2_13.cpp)
+add_executable(${BUILD2_13} ${SOURCEFILE_2_13})
+
+set(BUILD2_14 ex2_14)
+set(SOURCEFILE_2_14 ch02/ex2_14.cpp)
+add_executable(${BUILD2_14} ${SOURCEFILE_2_14})
+
+set(BUILD2_17 ex2_17)
+set(SOURCEFILE_2_17 ch02/ex2_17.cpp)
+add_executable(${BUILD2_17} ${SOURCEFILE_2_17})
+
+set(BUILD2_18 ex2_18)
+set(SOURCEFILE_2_18 ch02/ex2_18.cpp)
+add_executable(${BUILD2_18} ${SOURCEFILE_2_18})
+
+set(BUILD2_20 ex2_20)
+set(SOURCEFILE_2_20 ch02/ex2_20.cpp)
+add_executable(${BUILD2_20} ${SOURCEFILE_2_20})
+
+set(BUILD2_26 ex2_26)
+set(SOURCEFILE_2_26 ch02/ex2_26.cpp)
+add_executable(${BUILD2_26} ${SOURCEFILE_2_26})

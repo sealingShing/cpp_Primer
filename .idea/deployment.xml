@@ -5,18 +5,14 @@
       <paths name="Remote Host (18087e1a-0e89-49df-bd75-c3a46431a03a)">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/tmp/tmp.n0lphjpqe6" local="$PROJECT_DIR$" />
           </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
         </serverdata>
       </paths>
       <paths name="WSL (b16059f0-996a-4b86-b210-286a6e478f40)">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="WSL (bad6f2fb-40a3-4e45-9bc2-8a1560acaff9)">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
